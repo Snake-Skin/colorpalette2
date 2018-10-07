@@ -26,6 +26,8 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  height: 600px;
+  width: 600px;
 }
 
 .palettes {
@@ -33,6 +35,8 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-between;
+  height: 100px;
+  width: 100px;
 }
 
 .favorites {
