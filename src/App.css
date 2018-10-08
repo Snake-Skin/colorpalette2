@@ -16,27 +16,24 @@
 
 .container {
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
+
 }
 
 .colors {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  height: 600px;
-  width: 600px;
+ flex-wrap: wrap;
+  justify-content: center;
+  height: auto;
+  width: auto;
 }
 
 .palettes {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  height: 100px;
-  width: 100px;
+
+  justify-content: center;
+  height: auto;
+  width: auto;
+  color: white;
 }
 
 .favorites {
